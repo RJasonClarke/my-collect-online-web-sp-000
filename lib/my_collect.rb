@@ -3,7 +3,7 @@ def my_collect(empty_array)
   result = []
 end
 
-array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+array = ['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']
 my_collect(array) do |name|
   name.split(" ").first
 end
