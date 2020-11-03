@@ -3,4 +3,3 @@ def my_collect(empty_array)
   result = []
 end
 
-my_collection(languages)
